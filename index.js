@@ -27,7 +27,7 @@ function questions(question,answer) {
 
 let allQuestions = [{
   question: "What is my favourite ice cream ",
-  answer:"Butterscoth"
+  answer:"Butterscotch"
 }, {
   question: "What is my favourite colour ",
   answer:"blue"
