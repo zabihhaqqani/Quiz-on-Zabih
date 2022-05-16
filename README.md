@@ -12,7 +12,7 @@
 Enter your name and start playing
 
 - There are 4 questions 
-- For each correct answer you get 10 points 
+- For each correct answer you get 1 point
 - At the end you get your final score 
 
 
