@@ -1,9 +1,17 @@
 # Quiz-on-Zabih
+
+
+
+
+![quiz zabih](https://user-images.githubusercontent.com/53895282/168627030-27cbdd40-f45f-4319-86c0-c3e6ecf7120f.JPG)
+
+
+
 **A Simple quiz on zabih**
 
 Enter your name and start playing
 
-- There are 3 questions 
+- There are 4 questions 
 - For each correct answer you get 10 points 
 - At the end you get your final score 
 
