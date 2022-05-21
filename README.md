@@ -11,8 +11,8 @@
 
 Enter your name and start playing
 
-- There are 4 questions 
-- For each correct answer you get 1 point
+- There are 6 questions 
+- For each correct answer you get  point
 - At the end you get your final score 
 
 
